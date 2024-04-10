@@ -1,0 +1,97 @@
+[
+    {
+      "field1": "Value 1.1",
+      "field2": 123,
+      "field3": true,
+      "field4": null,
+      "field5": "2024-04-11",
+      "field6": [
+        "Item A",
+        "Item B",
+        "Item C"
+      ],
+      "field7": 3.14159,
+      "field8": "This is a longer string",
+      "field9": {
+        "key1": "value1",
+        "key2": 10
+      },
+      "field10": false
+    },
+    {
+      "field1": "Value 1.1",
+      "field2": 123,
+      "field3": true,
+      "field4": null,
+      "field5": "2024-04-11",
+      "field6": [
+        "Item A",
+        "Item B",
+        "Item C"
+      ],
+      "field7": 3.14159,
+      "field8": "This is a longer string",
+      "field9": {
+        "key1": "value1",
+        "key2": 10
+      },
+      "field10": false
+    },
+    {
+      "field1": "Value 1.1",
+      "field2": 123,
+      "field3": true,
+      "field4": null,
+      "field5": "2024-04-11",
+      "field6": [
+        "Item A",
+        "Item B",
+        "Item C"
+      ],
+      "field7": 3.14159,
+      "field8": "This is a longer string",
+      "field9": {
+        "key1": "value1",
+        "key2": 10
+      },
+      "field10": false
+    },
+    {
+      "field1": "Value 1.1",
+      "field2": 123,
+      "field3": true,
+      "field4": null,
+      "field5": "2024-04-11",
+      "field6": [
+        "Item A",
+        "Item B",
+        "Item C"
+      ],
+      "field7": 3.14159,
+      "field8": "This is a longer string",
+      "field9": {
+        "key1": "value1",
+        "key2": 10
+      },
+      "field10": false
+    },
+    {
+      "field1": "Value 1.1",
+      "field2": 123,
+      "field3": true,
+      "field4": null,
+      "field5": "2024-04-11",
+      "field6": [
+        "Item A",
+        "Item B",
+        "Item C"
+      ],
+      "field7": 3.14159,
+      "field8": "This is a longer string",
+      "field9": {
+        "key1": "value1",
+        "key2": 10
+      },
+      "field10": false
+    }
+]
